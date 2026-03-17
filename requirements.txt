@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+nltk
+PyPDF2
+python-docx
+python-pptx
+openpyxl
+langchain-openai
+scikit-learn
+joblib
+sentence-transformers
