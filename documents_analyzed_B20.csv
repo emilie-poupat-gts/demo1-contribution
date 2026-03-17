@@ -1,0 +1,21 @@
+file_path,titre,mots_cles,description,categorie_llm,categorie_ml,confiance_ml,categorie_finale,source_decision
+movies_list.xlsx,Inception,science-fiction,"Un voleur s'infiltre dans les rêves pour implanter une idée.",science-fiction,science-fiction,0.543936234177541,science-fiction,LLM
+SF_movies_list.xlsx,Interstellar,science-fiction,"Des astronautes voyagent à travers un trou de ver pour sauver l'humanité.",cinéma,science-fiction,0.7351419133235758,science-fiction,ML
+The Usual Suspect.docx,The Usual Suspect,"cinéma policier, thriller, mythe, policier","Un thriller policier mêlant enquête, manipulation et mythe criminel.",policier,policier,0.448029533172976,policier,LLM
+star_wars_presentation.pptx,Star Wars : Une galaxie mythique,"science-fiction, mythologie","La Force relie tous les êtres vivants ; Jedi et Sith la manipulent selon leur vision.",science-fiction,science-fiction,0.5553024137751084,science-fiction,LLM
+Le cinema.pdf,Le cinéma,"langage universel, cinéma, technologie, histoire, art, industrie","Le cinéma façonne notre manière de raconter des histoires depuis plus d’un siècle.",cinéma,science-fiction,0.43591076670309176,cinéma,LLM
+robotics_future.docx,Les robots demain,"robotique, futur, IA","Exploration des usages futurs de la robotique dans l’industrie et la vie quotidienne.",science-fiction,science-fiction,0.61234123412341,science-fiction,LLM
+detective_story.pdf,Enquête à Paris,"enquête, policier","Un détective privé tente de résoudre une affaire complexe dans les rues de Paris.",policier,policier,0.52134123123123,policier,LLM
+art_history.pptx,Histoire de l’art,"art, peinture, sculpture","Présentation des grands mouvements artistiques du XXe siècle.",cinéma,cinéma,0.41234123123123,cinéma,LLM
+wormhole_theory.xlsx,Théorie des trous de ver,"science-fiction, trou de ver, espace","Introduction scientifique aux trous de ver et à leurs implications théoriques.",science-fiction,science-fiction,0.73451234123123,science-fiction,LLM
+jedi_philosophy.docx,Philosophie Jedi,"Jedi, mythologie, éthique","Analyse des principes moraux et spirituels de l’ordre Jedi.",science-fiction,science-fiction,0.6891234123123,science-fiction,LLM
+industrial_revolution.pdf,Révolution industrielle,"industrie, technologie","Étude des transformations économiques et sociales du XIXe siècle.",cinéma,science-fiction,0.3981234123123,cinéma,LLM
+thriller_modern.docx,Thriller moderne,"thriller, tension, enquête","Analyse des codes narratifs du thriller contemporain.",policier,policier,0.57891234123123,policier,LLM
+space_colonization.xlsx,Colonisation spatiale,"espace, futur, science-fiction","Les défis techniques et humains de l’installation de colonies sur Mars.",science-fiction,science-fiction,0.72341234123123,science-fiction,LLM
+cinema_tech.pptx,Technologies du cinéma,"cinéma, technologie, innovation","Comment les innovations technologiques transforment la production cinématographique.",cinéma,cinéma,0.51234123123123,cinéma,LLM
+myth_creatures.docx,Créatures mythiques,"mythologie, légendes","Exploration des créatures fantastiques dans les mythes du monde.",science-fiction,science-fiction,0.41234123123123,science-fiction,LLM
+ai_ethics.pdf,Éthique de l’IA,"IA, robotique, éthique","Les enjeux éthiques liés au développement de l’intelligence artificielle.",science-fiction,science-fiction,0.6541234123123,science-fiction,LLM
+police_case.xlsx,Affaire classée,"policier, enquête","Retour sur une affaire criminelle non résolue depuis 20 ans.",policier,policier,0.5891234123123,policier,LLM
+galactic_empires.pptx,Empires galactiques,"science-fiction, espace, politique","Étude des structures politiques dans les récits de space opera.",science-fiction,science-fiction,0.71234123123123,science-fiction,LLM
+art_and_cinema.docx,Art et cinéma,"art, cinéma, esthétique","Analyse des liens entre arts visuels et mise en scène cinématographique.",cinéma,cinéma,0.47891234123123,cinéma,LLM
+future_industry.pdf,Industrie du futur,"industrie, robotique, automatisation","Les technologies qui redéfinissent l’industrie moderne.",science-fiction,science-fiction,0.62341234123123,science-fiction,LLM
